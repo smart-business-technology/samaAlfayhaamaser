@@ -35,7 +35,7 @@
 
 
                 <xpath expr="//group[@name='identification_group']" position="after">
-                    <group string="عهد الموظف">
+
                         <group>
                             <field name="elahad"/>
                         </group>
@@ -43,7 +43,7 @@
                             <field name="instrument_no"/>
                             <field name="amount"/>
                         </group>
-                    </group>
+
                 </xpath>
             </field>
         </record>
